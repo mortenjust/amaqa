@@ -13,8 +13,7 @@ $num_pages = 20; // each page has about 3 questions on it
 $asin_list = "B00X4WHP5E";
 
 $asins = explode(",", $asin_list); 
-$delimitor = ","; // comma-separation for easy pasting into Sheets (paste special > csv)
-
+$delimiter = ","; // comma-separation for easy pasting into Sheets (paste special > csv)
 
 // building a URL to look like this: https://www.amazon.com/ask/questions/inline/B015SUGJFQ/1
 $url = "https://www.amazon.com/ask/questions/inline";
