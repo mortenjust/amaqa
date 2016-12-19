@@ -1,0 +1,1446 @@
+"Can you change watch bands?",features
+"is a screen protector necessary?",features
+"Can the battery last for a marathon 4 hour run with bluetooth headphones?",battery
+"Does it track sleep?",features
+"Does it have a constant heartrate?",features
+"Does this watch have a mic and speaker so I could talk on it?",features
+"What size range does the band fit?",customization
+"how long will the battery last with gps on and heat rate tracking on compared to off?",battery
+"Does it tell me my running pace in real time?",features
+"Does it record heart rate while you work out and constant or do you need to be standing still.",features
+"also is this work with my Samsung s Health app?",features
+"can i use the watch with spotify without having my phone with me?",features
+"Battery life is enough for 2 hr workout session hearing music?",battery
+"Is the 1st Gen charger compatible with this 2nd Gen watch?",compatibility
+"Can you set a pace alert (notify when you go above or below a set pace)
+Does the hr monitor works as well and registers data if i decide to use different running apps such as nike+ or runkeeper?",features
+""Is this a good, lower cost alternative to the Moto 360 2nd gen?",hardware
+"I will only be checking notifications and such.",features
+"I don't care for the "active" part"
+Does the box include a wireless charger?",hardware
+"Can i change the watch face like another android wear..??",features
+"Is the stand alone gps only for tracking fitness or will the watch work as a stand alone turn by turn navigation?",hardware
+"or would that require cell or wif?",features
+"Does this watch have GPS?",features
+"This model is for men or women?",features
+"I have a 8 1/2 inch wrist is the strap long enough for my wrist?",hardware
+"can I track the watch from a separate device, like a computer or iPhone?",features
+"Does the watch sync to the phone's time, or is the watch set manually or in some other fashion?",features
+"Thanks!",features
+"Is there updates often to apps and firmware to fix bugs?",features
+"is this for a female?",features
+"Does it work with iOS?",compatibility
+"Can i turn bluetotth off (to save battery) ?",features
+"I have an iPhone 6 and would like to find a watch for golf gps as well as texting and notifications.",features
+"Does this have all of that?",features
+"Can you google on it?",features
+"How does it connect to the phone?",hardware
+"Is it waterproof?",compatibility
+"Do you need to put a sim card in the watch for it to work?",hardware
+"Can I see a map on this watch?",features
+"Is this the watch you can make phone calls and text with?",features
+"Does this work with Windows phones?",compatibility
+"Can i save photos on the watch?",features
+"(From iphone)
+Does it have international warranty?",features
+"Just a couple of questions: 1) can you check the time while in workout mode?",features
+"2) can you use stopwatch or timer while in workout mode?",features
+"Is this the second gen or first gen sport... ?",hardware
+"What is the total weight and dimensions of the package?",features
+"Does it work with iphone?",compatibility
+"Does the front glass break easily?",features
+"Is this the new one or the original?",hardware
+"is the screen always on?",features
+"Can i change the watch face like another android wear..??",features
+"Is good with weagth lifting work out?",compatibility
+"Is fitbit better?",compatibility
+"Can u use it with the fitbit app?",features
+"Does it tell time?",features
+"Do you need your phone?",features
+"Can i listen to music without my smartphone?",features
+"Aside from cosmetics, what is the difference between the regular moto 360 and the moto 360 sport?",hardware
+"The strap holder that holds the band in place ripped.",hardware
+"Any suggestions where to get new?",hardware
+"it is waterproof?",features
+"I broke the screen, where can I get it fixed?",features
+"Is the moto 360 sport compatible with the lg v10?",compatibility
+"How long does the battery last with simple, everyday use?",hardware
+"is it shower proof?",features
+"Is this device compatible with the iPhone?",compatibility
+"Sync or Works with iphone?",compatibility
+"Does this watch display the text from a text message on the screen or does it just notify you of a new message?",features
+"Does it sync with Nike+
+Does the watch give you notification for incoming call?",features
+"able to receive it?",features
+"Compatible with I phone 6?",compatibility
+"How do i load mp3 onto this watch?",features
+"can i drag and drop any mp3 that i have downloaded to my pc?",features
+"or is music limited to the google play universe?",features
+"Does it have warranty ?",features
+"does this have stand alone gps built in?",features
+"What color should i get?",hardware
+"Is orange weird for a man to wear?",hardware
+"How durable is the watch band for the moto sport?",hardware
+"Since this is a sports watch, does it have a compass?",features
+"Hello, is this watch compatible with iphone 6s?",compatibility
+"Can you upload music directly via micro USB plug in?",features
+"How well would this watch track gps while I'm traveling in Europe and won't have data on my phone?",features
+"should i change from moto 360 1gen to this one?",hardware
+"Is this compatible with iphone 7?",compatibility
+"can i get sms notifications?",features
+"Is it waterproof?",compatibility
+"Is this first or second generation?",hardware
+"Sorry that the 1.45 doesn't have a speaker.",features
+"Hope the 1.63 won't overpower my smallish wrist!",compatibility
+"How is the sound quality and how easy to adjust?",hardware
+"Are the straps interchangeable?",compatibility
+"If I bought brown and got tired of it, can I swap another coler instead?",customization
+"So i have a few questions can i use while washing my hands/dishes?",features
+"and hows the battery?",features
+"is the screen bright?",features
+"and is the speaker loud(I work out side?",features
+"Can you change the background image or screen to whatever you want?",features
+"can you receive and answer emails and text messages?",features
+"does it have camera?",features
+"Does it have keyboard?",features
+"Does it have Portuguese language?",features
+"Does this come with a charging cable?",hardware
+"Will this watch read my text message to me?",features
+"Will this connect with Samsung Galaxy S3 mini?",compatibility
+"Can you use the watch as a phone?",features
+"its compatible with Android 6.0.1 marshmallow?",compatibility
+"Do I need to pay a monthly subscription fee or buy a plan to make this watch sync to my Samsung Galaxy S7?",hardware
+"is this ZenWatch 2 or 1?",hardware
+"Does this have a built in speaker?",features
+"Is there any way I could use this with an iPhone?",compatibility
+"Can you watch movies on the Zen Watch?",features
+"The amazon description indicates it has a built in speaker.",features
+"But the manufacturer did not indicate.",features
+"Does it have a built in speaker to make calls?",features
+"how long is the charging cable?",hardware
+"Would it get an update of androidwear 2?",hardware
+"Does it have a touch screen?",features
+"Can you make calls with the iphone?",features
+"will this work with galexy s7?",compatibility
+"Can you send text messages from the watch?",features
+"does it work with note 3?",compatibility
+"Does this watch have sleep monitor feature?",features
+"Compatible with iPhone 7?",compatibility
+"Can i link this to my smartphone, while using bluetooth headphones, and advance songs on watch.",features
+"i want to use it to change pandora songs w/o phone out?",features
+"can this watch be used internationally?",features
+"Will it work with my Samsung Galaxy 5?",compatibility
+"What aps do you have to download for the watch to work?",features
+"It work with ios, correct?",compatibility
+"with limited capabilities/notifications?",compatibility
+"what does it do/not do?",hardware
+"Will this old music on he watch?",features
+"I want to use it at the gym, but I do not want to carry my phone.",features
+"Is it compatible with Android 5.1?",compatibility
+"Why does a device that is ever so difficult to program to do even basic things not come with any sort of instructions in the box?",hardware
+"Does this watch support the OnePlus 3?",compatibility
+"Does it have a playstore?can we install any kind of app from play store?",features
+"Can you use it with the honor 5x?",features
+"Does it work for the samsung s7?",compatibility
+"how many languages does this watch can understand?",features
+"Besides the size of the 2 watches, what does the 1.45 lack compaired to the 1.65?",hardware
+"The 1.65 is way too big for me.",features
+"The Asus website doesn't help.",features
+"Can you recieve facebook/messenger notifications?",features
+"Does this watch work well for sleep tracking?",features
+"Can't find the Asus zenwach2 in the app Store for my iPhone 5s?",compatibility
+"I have an LG Stylo, my main concern is that it wont allow me to recieve notifications.",features
+"does this work with iphone?",compatibility
+"What is the difference between the asus zenwatch 2 android wear smartwatch and the asus zenwatch 2 wi501q-sr-bw-q?",hardware
+"can i swim with this watch?",features
+"Is it possible to receive all alert by vibration only ?",features
+"I don't want the watch to make any sound?",features
+"I am interested in the watch but I want to know if new and it comes in its original box with its accessories?",hardware
+"band width?",features
+"What watch is better the zen watch or the galaxy gear s2?",features
+"Is this compatible with the iphone 6s plus?",compatibility
+"If so, what all features are capable ?",hardware
+"I do not understand the measurements on this watch.",features
+"Can someone give me a real size in diagram to understand better?",features
+"It looks like it will pair w a modern iphone, though limited functionality.",compatibility
+"what functions work w the iphone?",compatibility
+"can you send and receive texts?",features
+"Does it work with a Samsung Galaxy J7?",compatibility
+"Can you put a SIM card in it?",features
+"can I use it with iphone 6?",compatibility
+"Dear amazon world i have the asus zenwatch 2 1.63 model i want the lg urbane watch is the lg model better than zenwatch 2 can some 1 help me out?",features
+"does it come with a charger?",hardware
+"Does this works with ios?",compatibility
+"Do threema and txt meesages show on the phone?",features
+"why would my watch last only 5 hours after being fully charged?",hardware
+"Can you insert a sim in the watch ?",features
+"Will this watch uodate to marshmallow?",hardware
+"Does it have global warrenty?",features
+"How many alarms can you set on this watch?",features
+"can anyone tell me the length of the straps as I have big wrists?",features
+"can you recieve calander reminders, text messages, calls, and emails with the samsung s7?",features
+"Why would I lose my Mic feature?",features
+"The order page says that shipping will arrive sept 1.",hardware
+"I need it sooner than that.",hardware
+"Does the zen watch 2 have a heart rate monitor?",features
+""Does it work with the Zenfone 3 Deluxe 5.7"?",compatibility
+"","ASUS ZenWatch 2 WI501Q-SR-BW-Q 1.63-inch AMOLED Smart Watch with Quick Charge - BROWN"
+Tried this on at store band not enough holes is it easy to add more holes?",hardware
+"what models have the speaker?",features
+"does this work with iphone 6plus?",compatibility
+"can i install Nike running?",features
+"Is it waterproof?",compatibility
+"Does it have bluetooth speaker if I asl my phone a question my watch will answer?",features
+"Can you put music on it and listen to it with Bluetooth without the phone being around?",features
+"work with iphone?",compatibility
+"Is the watch water resistant?",hardware
+""Can you run "Sleep as Android" or other sleep tracking apps with this smart watch?"",features
+"Compatible with iphone6?",compatibility
+"can i reply to texts and emails from my iphone?",features
+"Is it compatible with iPhone 7?",compatibility
+"Will this watch work with android wear?",compatibility
+"Can you turn off the screen by covering it with your hand?",features
+"(Much like the moto360)
+Is this compatible with iPhone 6s?",compatibility
+"Can you type with it and send texts?",features
+"Compat w galaxy s7?",compatibility
+"is this unisex?",features
+"What does the the watch come with?",hardware
+"Does it work with a iPhone 7?",compatibility
+"Does your phone need to be near you at all times?",features
+"can you play music without your phone?",features
+"Does this watch contain nickel?",features
+"Does this watch track running/biking distance?",features
+"can you use spotify through the watch?",features
+"What is the range of the watch to the phone?",hardware
+"Does this item come with the charger?",compatibility
+"If I have this watch connected to one wifi signal, my phone over a different wifi signal, will they be synced and still get notifictions?",hardware
+"can you talk to someone through the watch?",features
+"Compare to iwatch?",hardware
+"Does the person name shows up on the phone?",features
+"Does the music only work with Android?",compatibility
+"I don't see how to make it work for iPhone?",features
+"Does it track steps?",features
+"Can i have more than 1 watch paired?",features
+"i have a moto sport but cant change the band, i need something i can customize too.",features
+"How do power it ?do you plugin or hAve to change batteries every day..
+Hello all, I just got one of these as a gift.",hardware
+"Did anyone else have issues with the screen blinking when using a Fossil face?",features
+"Will it connect to an iPhone and an Android phone at the same time?",compatibility
+"Will this watch connect to a android phone?",hardware
+"a samsung galaxy 6 edge plus?",compatibility
+"can it display notification for whatsapp or twitter apps on iphone?",features
+"Can this watch work with the Jawbone UP app on the droid?",compatibility
+"Listed as not water resistant ... but fossil.com says same model is rated to 1m depth.",hardware
+"Can anyone verify ?",features
+"Is the stand the only way to charge?",hardware
+"are there compatible wireless chargers?",compatibility
+"(seems to like my samsung fast charge, but will that damage it?)",features
+"Is this compatible with a Nexus 6p?",compatibility
+""Is anyone else bothered by the way the bottom of the "watch face" is blacked out?",features
+"Are all smart watches like thi?"",features
+"How many fitness features does it contain?",features
+"Is the size suitable for woman?",compatibility
+"How long does the battery last?",features
+"Does the person name shows up?",features
+"Does this watch have to be paired to a smartphone to do basic watch functions?",features
+"(keep time)
+Is it compatiable with HTC 10?",compatibility
+"Does this work with iphone?",compatibility
+"Does this watch have a barometer and/or thermometer.",features
+"Can this watch work with the child tracker application?",compatibility
+"Does the watch work with IPhone 6s???",compatibility
+"Would this smart watch work for an HTC M9?",compatibility
+"Does it have a silent mode, and/or vibration mode?",features
+"Is this the Fossil Q Founder 2.0 model?",compatibility
+"Are there any major differences between the Gen 1 and Gen 2 besides the speaker?",hardware
+"Can you use golf gps apps on this watch to track distance to the green on a golf course?",features
+"Will it work with a SSgalaxy 5 note?",compatibility
+"Is this watch water resistant?",hardware
+"Is the Q Founder smartwatch waterproof?",compatibility
+"Does it work even when your phone is off(timekeeping)
+Will dis watch works for iOS?",compatibility
+"Will it vibrate to alert you of messages on apps?",features
+"Like kik or facebook messenger?",features
+"Is it able to act like a stopwatch and a timer?",features
+"How would you compare this to the Gear S2?",hardware
+"Is it waterproof?",compatibility
+"How do the watch charges?",features
+"Does it have a step counter??",features
+"Can you recieve texts and respond?",features
+"Can work on galaxy note 4 ?",compatibility
+"Does it work with lg g5?",compatibility
+"does it works with Windows Phone 10?",compatibility
+"Does this watch work with galaxy S4 phone?",compatibility
+"Does the watch have an amoled display, or an LCD display?",features
+"What's in the box when you get it?",hardware
+"Does it wkrk for samsungs?",compatibility
+"Is this compatable with any iphone?",compatibility
+"Does it work with virginPulse app?",compatibility
+"Is this for women's?",hardware
+"Works for iPhone?",compatibility
+"Does it have a heart rate monitor?",features
+"Can you change the faces of the watch?",features
+"And how good does it connect to iOS?",hardware
+"Is it water-resistant?",compatibility
+"why are you selling the google g watch at $294 when it is $229 everywhere else?",hardware
+"Can you take answer a call without having to take out your phone?",features
+"Can you answer calls and talk and listen with this watch?",features
+"I heard that this can only pair with low-power bluetooth devices.",hardware
+"How limiting is this?",hardware
+"Do you need your phone nearby in order for the watch to work?",hardware
+"Does it work with Samsung Galaxy S5?",compatibility
+"Will it show who is calling?",features
+"instead of digging your phone out of your pocket to see.",features
+"I use my BT headset to listen to podcasts constantly on my phone.",hardware
+"Will the fact that this works via BT also interfere?",hardware
+"Does it come with a charger?",hardware
+"How many daily alarms can you set up on this watch?",features
+"What is the average time you get on a charge?",features
+"can you answer calls with this watch ?",features
+"does it have a heart rate monitor?",features
+"Can I take it swimming?",hardware
+"is this water resistant?",hardware
+"Does it vibrate?",features
+"Will this work on iPhone?",compatibility
+"from where does it get data?",features
+"only wifi?",features
+"Does it show your text?",features
+"Can u read them?",features
+"And can you respond?",features
+"Can you control music apps on your phone like Spotify?",features
+"Can I use this watch to run, will it track my route via GPS without my phone?",features
+"can I set the clock to an analog look instead of digital?",features
+"Does it work without wifi?",compatibility
+"Does the screen always show the time?",features
+"Can you add extra storage to the watch?",features
+"can it use wifi and was it upgraded to 5.1.1 os?",features
+"Can this watch be used even if the phone isnt close.. if so what works?",features
+"Is there a manual or user guide?",hardware
+"Does it include a charger?",hardware
+"Does anyone know what i can use to remove scratches from the watch?",features
+"Is it compatible with the LG G3 phone?",compatibility
+"will this work with the samsung galaxy S4?",compatibility
+"Does it have a charger?",features
+"What can I do on the watch using wifi?",features
+"Do i have to have a contract with this watch?",features
+"does it show your music?",features
+"Will it work with the lg v10?",compatibility
+"How much internal memory does this device have?",features
+"and is there a slot for a micro sd card?",features
+"Does it count steps?",features
+"What size is the wrist band?",hardware
+"Does it work with nexus 6?",compatibility
+"Does this watch have a built-in camera & is it compatible with logging steps onto Virgin Health Miles?",features
+"Mine didn't come with a us charger, can anyone advise which charger i need to connect the cradle?",hardware
+"how much input / output?",features
+"does it work with straight talk phone?",compatibility
+"Does it work with an lg 23 flex?",compatibility
+"thank you for answering!",hardware
+"Can we insert a GSM sim card in the watch ?",features
+"Has everyone been successful updat the OS on this?",features
+"(I think 5.1 is the latest) Woot has been selling one that can never get updated so it's useless.",hardware
+"does it have a heart rate function?",features
+"i already have this watch and i wanted to know if i can buy seprate bands to change the one that is on here?",features
+"Is there a manual or user guide?",hardware
+"Does is work with a OnePlus One?",compatibility
+"Will it fit a 7.5 inch wrist??.",compatibility
+"Does this watch control pandora features such as pause, skip and thumbs up/down?",features
+"does this come with US warranty?",compatibility
+"its it blue tooth with a lg phone?",compatibility
+"Does it work with the LG Lucid?",compatibility
+"does it notify you of text messages?",features
+"Does it work with the htc desire?",compatibility
+"What accessories are included in the box?",hardware
+"Thx!",features
+"How do i know when my battery is low?",features
+"can you download apps directly on the watch or it has to be downloaded on the connected phone?",features
+"Does the black LG dislay in color?",hardware
+"I always see the white gold in color.",hardware
+"Is this a water proof watch?",hardware
+"Does it work with blu 6.0 hd?",compatibility
+"is this the US Lg watch or european version?",features
+"the box would say lg g watch for US or lg g watch buddy for europe.",hardware
+"Does it work with the galaxy s5?",compatibility
+"And can u answer your phone from it?",features
+"Can you put apps on it?",features
+"how do i upgrade the software?",features
+"can you use samsung note 3 and lg tone bletooth headphnes with this smartwatch?",compatibility
+"When will they be back in stock of the white gold?",hardware
+"If you use hangouts, can you type out a text on the watch?",features
+"Will it work with the Samsug Galaxy Tab 3?",compatibility
+"Hi there.",compatibility
+"Is this phone watch compatible with lg opimist g pro cellphone.",compatibility
+"Thank you.",features
+"Does it work with windows phone?",compatibility
+"Does it work for iPhone?",compatibility
+"Will this watch work like a fitness tracker?",features
+"Steps and sleep?",features
+"Does this watch have a sim card slot?",features
+"can u install Nike running?",features
+"does it fits the phone sony experia Z3v?",features
+"Does it have a camera?",features
+"Is it iPhone/iPad compatible?",compatibility
+"does have speaker?",features
+"Does this watch have a sim card slot?",features
+"I would like to buy it to wake me up in the morning with vibration only.",hardware
+"Does it work like this for anybody?",compatibility
+"can battery replaceable?",features
+"i don't wanna buy again again because battery dead.",features
+"Can you answer and reject calls using the watch?",features
+"does it play music?",features
+"does this watch check heart rate?",features
+"Does this watch show the calls and messages across the screen when they come through??",features
+"Are you able to see pictures stored on my phone's gallery trough the watch?",features
+"Like on the apple watch?",features
+"does it work for Huawei P8?",compatibility
+"Can you type a text message on it?",features
+"Can i put third party bands?",features
+"Can it use for iphone ?",compatibility
+"does the time face stay on?",features
+"Does this watch sync with the Map My Run app?",compatibility
+"does it track routes?",features
+"can you change watch faces?",features
+"Can u answer calls or response to texts?",features
+"can this be used as stand alone phone?",features
+"Can you access facebook with it?",features
+"And google maps and see the directions?",features
+"Can we connect this Sony smart watch 3 to samsung?",hardware
+"Can you answer & make calls on the watch ?",features
+"Can the watch face change to look more like a classic watch with a second hand?",features
+"Can i change the language to spanish so i send text messages in spanish?",features
+"Has anyone ran marathon with this?",compatibility
+"I wonder if the battery will last over 5 hours with gps on.",compatibility
+"thanks?",features
+"Will I be able to use the Nike+ Running app without my phone on me?",features
+"I have currently, the garmin vivo watch but just bought this on sale for $50 from fingerhut, of all places.",hardware
+"which watch is better?",features
+"can it work without a phone?",features
+"Can you get kik notifications on this watch?",features
+"can you swim with this watch?",features
+"Can you reply to a text ?",features
+"Sorry that the 1.45 doesn't have a speaker.",features
+"Hope the 1.63 won't overpower my smallish wrist!",compatibility
+"How is the sound quality and how easy to adjust?",hardware
+"Are the straps interchangeable?",compatibility
+"If I bought brown and got tired of it, can I swap another coler instead?",customization
+"So i have a few questions can i use while washing my hands/dishes?",features
+"and hows the battery?",features
+"is the screen bright?",features
+"and is the speaker loud(I work out side?",features
+"Can you change the background image or screen to whatever you want?",features
+"can you receive and answer emails and text messages?",features
+"does it have camera?",features
+"Does it have keyboard?",features
+"Does it have Portuguese language?",features
+"Does this come with a charging cable?",hardware
+"Will this watch read my text message to me?",features
+"Will this connect with Samsung Galaxy S3 mini?",compatibility
+"Can you use the watch as a phone?",features
+"its compatible with Android 6.0.1 marshmallow?",compatibility
+"Do I need to pay a monthly subscription fee or buy a plan to make this watch sync to my Samsung Galaxy S7?",hardware
+"is this ZenWatch 2 or 1?",hardware
+"Does this have a built in speaker?",features
+"Is there any way I could use this with an iPhone?",compatibility
+"Can you watch movies on the Zen Watch?",features
+"The amazon description indicates it has a built in speaker.",features
+"But the manufacturer did not indicate.",features
+"Does it have a built in speaker to make calls?",features
+"how long is the charging cable?",hardware
+"Would it get an update of androidwear 2?",hardware
+"Does it have a touch screen?",features
+"Can you make calls with the iphone?",features
+"will this work with galexy s7?",compatibility
+"Can you send text messages from the watch?",features
+"does it work with note 3?",compatibility
+"Does this watch have sleep monitor feature?",features
+"Compatible with iPhone 7?",compatibility
+"Can i link this to my smartphone, while using bluetooth headphones, and advance songs on watch.",features
+"i want to use it to change pandora songs w/o phone out?",features
+"can this watch be used internationally?",features
+"Will it work with my Samsung Galaxy 5?",compatibility
+"What aps do you have to download for the watch to work?",features
+"It work with ios, correct?",compatibility
+"with limited capabilities/notifications?",compatibility
+"what does it do/not do?",hardware
+"Will this old music on he watch?",features
+"I want to use it at the gym, but I do not want to carry my phone.",features
+"Is it compatible with Android 5.1?",compatibility
+"Why does a device that is ever so difficult to program to do even basic things not come with any sort of instructions in the box?",hardware
+"Does this watch support the OnePlus 3?",compatibility
+"Does it have a playstore?can we install any kind of app from play store?",features
+"Can you use it with the honor 5x?",features
+"Does it work for the samsung s7?",compatibility
+"how many languages does this watch can understand?",features
+"Besides the size of the 2 watches, what does the 1.45 lack compaired to the 1.65?",hardware
+"The 1.65 is way too big for me.",features
+"The Asus website doesn't help.",features
+"Can you recieve facebook/messenger notifications?",features
+"Does this watch work well for sleep tracking?",features
+"Can't find the Asus zenwach2 in the app Store for my iPhone 5s?",compatibility
+"I have an LG Stylo, my main concern is that it wont allow me to recieve notifications.",features
+"does this work with iphone?",compatibility
+"What is the difference between the asus zenwatch 2 android wear smartwatch and the asus zenwatch 2 wi501q-sr-bw-q?",hardware
+"can i swim with this watch?",features
+"Is it possible to receive all alert by vibration only ?",features
+"I don't want the watch to make any sound?",features
+"I am interested in the watch but I want to know if new and it comes in its original box with its accessories?",hardware
+"band width?",features
+"Does it work with a Samsung Galaxy J7?",compatibility
+"Can you put a SIM card in it?",features
+"can I use it with iphone 6?",compatibility
+"Dear amazon world i have the asus zenwatch 2 1.63 model i want the lg urbane watch is the lg model better than zenwatch 2 can some 1 help me out?",features
+"does it come with a charger?",hardware
+"Does this works with ios?",compatibility
+"Do threema and txt meesages show on the phone?",features
+"why would my watch last only 5 hours after being fully charged?",hardware
+"Can you insert a sim in the watch ?",features
+"Will this watch uodate to marshmallow?",hardware
+"Does it have global warrenty?",features
+"How many alarms can you set on this watch?",features
+"can anyone tell me the length of the straps as I have big wrists?",features
+"can you recieve calander reminders, text messages, calls, and emails with the samsung s7?",features
+"Why would I lose my Mic feature?",features
+"The order page says that shipping will arrive sept 1.",hardware
+"I need it sooner than that.",hardware
+"Does the zen watch 2 have a heart rate monitor?",features
+""Does it work with the Zenfone 3 Deluxe 5.7"?",compatibility
+"","ASUS ZenWatch 2 WI501Q-SL-CM-Q 1.63-inch AMOLED Smart Watch with Quick Charge - CAMEL LEATHER"
+Tried this on at store band not enough holes is it easy to add more holes?",hardware
+"what models have the speaker?",features
+"does this work with iphone 6plus?",compatibility
+"can i install Nike running?",features
+"Is it waterproof?",compatibility
+"Does it have bluetooth speaker if I asl my phone a question my watch will answer?",features
+"Does this work with the iPhone 6/6s?",compatibility
+"Does anyone else have the issue of this watch not charging past 82%?",hardware
+"i have to remove it off charger and charge again.",hardware
+"Does it have standalone music playback?",features
+"Will this come in a Moto 360 box?",hardware
+"Does it come with the 2nd gen. charging dock?",compatibility
+"Some of the reviews mentioned it did not, and instead came with the 1st gen. dock.",compatibility
+"What problems did it have before?",features
+"Is there any warranty from the manufacturer?",compatibility
+"With this work with a Nexus 6p?",compatibility
+"Does it come with the original box?",compatibility
+"includes charger and original dock?",hardware
+"Does it call?",features
+"Does it support Chinese?",compatibility
+"Is it worth the extra 80$ compared to the modo 360 version 1?",hardware
+"is it compatible with ios?",compatibility
+"does this come with a charger?",hardware
+"I have a really big wrist, 8-9 inch wrist.",features
+"I dont care how big the body of the watch is, Will (20mm) bands wrap around my size wrist?",customization
+"Is it wireless charging?",hardware
+"Does it have stopwatch function?",features
+"Will this fit big wrist?",compatibility
+"Can u pay for an additional warranty?",features
+"is there any sign on the watch that u can tell it was used?",features
+"Is the watch unlocked?",hardware
+"As in does it work with any cellular network?",compatibility
+"No one on here seems reliable should I go and buy from a different location?",features
+"Hi!",features
+"Can i use it in Argentina?",features
+"Does it work with iphone?",compatibility
+"And if it does, does it work well?",features
+"Will it work with Samsung Note4?",compatibility
+"So i'm a bit confused.",features
+"will this work on wi-fi when you phone is not handy or only on bluetooth when you have your phone nearby?",hardware
+"works this version en south america???",compatibility
+"you can answer call from the watch with the bluetooth version right?",features
+"When does the pre-order actually ship?",hardware
+"Will it be delivered or shipped 11/18?",features
+"Does samsung pay work on this watch?",compatibility
+"the specs say that it does work.",compatibility
+"recent reviews state that it is the international version and sp doesn't work?",hardware
+"Does this have a heart rate monitor?",features
+"What does this come with?",hardware
+"Will Samsung pay work on it?",compatibility
+"Because I have a Galaxy s7 edge(SM-G935F), which is not compatible with samsung pay.",compatibility
+"Would you feel comfortable taking this on a multi-week canoe trip for constant use?",features
+"Do the s2 and s3 have the same selectable faces?",features
+"i really like the blue face shown on the s2, but i don't see the faces available on the s3?",features
+"Anyone have information or estimates of battery life with GPS tracking a run?",features
+"Can i use this model in other countries outside of the united states?",features
+"can we set french as a language on this model?",features
+"When is this product going to be delivered.",hardware
+"Best buy has them in stock.",hardware
+"Will we ever get a ship date?",hardware
+"How do i change the language?",features
+"i received my device yesterday and it is in korean.",features
+"i receive no set up manual or instructions?",features
+"How is step counting and tracking whilst on an elliptical or treadmill?",features
+"i briefly had a gear s2 classic, but it never counted steps on elliptical.",features
+"can i use this watch in mexico to make calls and answer texts?",features
+"Are the frontier and the classic the same size?",features
+"Does a charger come with the watch?",hardware
+"Is the watch has international warranty?",features
+"Does the classic version have the altimeter and does it have some waterproofing?",features
+"Do they both have the military spec for drops?",hardware
+"Does this work with google maps running on the phone?",compatibility
+"i mean like android wear watch that shows turn notices that count down the distance.",features
+"Anybody know if you can tether a tablet to the LTE version?",features
+"Does the watch work with Gmail and Google calendar?",compatibility
+"Good afternoon, so if i will be using the gear s3 in south africa which one do i need to purchase?",hardware
+"the lte model or the bluetooth model?",features
+"Is it worth upgrading from a gear s2?",features
+"What version of android os is it compatible with for other phones?",compatibility
+"Does anyone have any idea when this will ship?",features
+"I would like to order it today and have it shipped.",hardware
+"If not, I'll just go to best buy.",hardware
+"It works in Brazil?",features
+"Can the watch replicate all the app notifications that your Android phone receives?",features
+"will this watch connect with my samsung 6 edge plus?",compatibility
+"Is there any way to turn the display off so it won't show up if I move my hand while sleeping?",features
+"Does it have a silent alarm?",features
+"Is there sleep tracking?",compatibility
+"Is it Japanese can be displayed?",features
+"Does watch has stopwatch?",features
+"This is the bluetooth version?",hardware
+"It says delivered by 15 or 20th of December, is this correct?",features
+"Is it okay to use my phone's charger for this?",hardware
+"what operating system is used on s3 classic version?",hardware
+"Is there way to keep the display on while exercising with shealth?",hardware
+"i would like to constantly see my hr, but the display always returns to watch view.",features
+"Can i play spotify on it?",features
+"Can you use as a golf finder?",features
+"Does the s3 frontier offer both bluetooth and lte if you buy the lte version?",hardware
+"So I can get notifications from my phone but get data if I get a sim?",features
+"is this international version.",hardware
+"Could I use in Paraguay?",features
+"Bt version also has wireless.",features
+"if i'm on the same home network as my phone but out of bt range, am i still able to make/receive calls using wireless?",features
+"Is the only difference between classic and frontier one of style?",hardware
+"any other differences other than looks?",features
+"Can I make and receive calls using the non LTE frontier version using bluetooth or only via a wifi connection(@ home etc)?",features
+"Can you change the watch face to other time presentations?",features
+"Can the tmobile and att versions of this watch work with verizon networks?",compatibility
+"What functions do i lose if i don't have a compatible phone?",features
+"i have an iphone.",features
+"Do they work with verizon phones?",compatibility
+"Will this watch link to my AT&T galaxy s7 active?",features
+"Will this work with verizon wirleless?",compatibility
+"If you have a samsung phone do you still need to install Android Wear to reply to Gmail messages?",features
+"It only pairs with samsung phones right ???",compatibility
+"The gear s3 is somewhat resistant to water.",hardware
+"so can i shower with it?",features
+"will it ruin the speaker?",features
+"Can i swim with this watch on?",features
+"i do laps and want to track my time and hr while swimming.",features
+"is it safe (but not recommended) or will it ruin the watch?",features
+"Does this come with a charger of any kind?",hardware
+"How well does this work with a non-samsung smartphone?",features
+"When can expect to see it on my doorstep?",features
+"the charger is included?",hardware
+"Can i make a phone call or receive a phone call from the watch?",features
+"it is a feature that gear neo has and i would like to keep.",features
+"It's water resistant?",hardware
+"Water resistant?",hardware
+"Does it have wifi/can you use the web on it?",features
+"Will this work with the Samsung S7 Edge?",compatibility
+"Does the front face metal cover replaceable with different colors?",compatibility
+"can u text and call on this?",features
+"Is it water proof and does it crash when connected to the Apple iOS 9.2.1 ?",hardware
+"have a pebble steel that crashes everyday!!",hardware
+"Can i see the same emails that i can view on my phone?",features
+"if so, can i scroll down through the email, and also scroll down to the next email?",features
+"Is it worth buying if you have an iPhone?",features
+"Can i use it with the galaxy s6 edge?",compatibility
+"Can this watch make and receive calls?",features
+"Does this watch answer phone calls and play music?",features
+"Also does it have a headphone slot?",features
+"It have another language option?",features
+"i need one in portuguese-br?",hardware
+"Is this watch compatible with the lg stylo?",compatibility
+"Will it work if my phone is not with me... ?",compatibility
+"That is is text messaging, noti f ications etc.",features
+"available without a phone?",features
+"Is it fully Compatible with Iphone?",compatibility
+"Does the watch sync to the phone's time, or is the watch set manually or in some other fashion?",features
+"Thanks!",features
+"how does it charge?",compatibility
+"can its battery be replenished after some years ?",features
+"Will this watch display my voicemails if I use visual voicemail on my phone?",features
+"what's the weight of the watch?",hardware
+"Can you receive imessage notifications on watch, from ios device?",features
+"(iPhone)
+Does it come sealed in box?",hardware
+"Does this work with iPhone?",compatibility
+"Is wristband interchangeable?",compatibility
+"Do I need to buy a charge for it?",hardware
+"Or it comes with its own.",compatibility
+"It is compatible with lg g4 android 6.0 (marshmellow)
+Can the face of the watch be switched to a digital one rather than the one displayed???",hardware
+"How long is the band (inches)?",features
+"I usually need at least an 8 inch band.",compatibility
+"can it display notification for whatsapp or twitter apps on iphone?",features
+"Can you take photos from it?",features
+"Lets say for example you turn on the camera on your phone will it show what your are seeing on the watch face?",features
+"Will it work on my nexus 6?",compatibility
+"I can put Spanish language?",features
+"Is it the same box you would get from ordering from factory?",hardware
+"Does anyone experiencing connection issue with the iPhone?",compatibility
+"Does it track steps and exercise?",features
+"I currently have the first moto 360, what would i get with the new one that i don't get with the original?",hardware
+"Does it work with ios?",compatibility
+"i bought a moto but it was too big for my worst and it was suppose to work with ios and it would not connect?",hardware
+"does this watch actually last after being under water?",hardware
+"can you connect two phones at the same time with it?",compatibility
+"wireless charging doc included?",compatibility
+"If there is not wifi at home will constinantly suck my data plan from my phone?",compatibility
+"If my phone is in my bag and I get a phone call; can I accept the call and converse through the watch?",features
+"Has anyone used this with an iphone and the dexcom g5 mobile cgm?",compatibility
+"i am trying to make sure you can see blood sugar read outs on the display.",features
+"Is the watchface always on or does it require pushing a button or moving the wrist to activate the screen?",features
+"embedded NFC tech?",features
+"able to do quick pay with the proper apps installed?",features
+"thanks!",features
+"I have very small wrists, how small can the wirstband be tightened to?",features
+"Besides heart monitor and ability to see texts or news or emails coming in, what else are they good for?",features
+"why won't my moto count steps?",features
+"Can you browse the internet on it like the first gen?",features
+"Will it work with samsung galaxy s6 edge?",compatibility
+"does it work with an iphone 6?",compatibility
+"Can I make and take calls from this?",features
+"does it work with htc m8 windows phone?",compatibility
+"can i answer a call on my phone with this watch?",features
+"Is there a way to prolong the time the screen is fully on?",features
+"can you use kindle and netflix on it?",features
+"Can you change the language of the system?",features
+"For example in German?",features
+"What fitness aps are loaded with the watch?",compatibility
+"will this wearable work with Samsung Galaxy Note 3?",compatibility
+"How much internal is in the watch and can you change the watch band?",features
+"Can you look at pictures from your phone on the watch?",features
+"Will this come in original box?",hardware
+"Does this connect to bluetooth chest heart rate monitors like the polar H7?",features
+"Can you play music to bluetooth ear piece without having your phone near by?",features
+"Does it pairs with iPhone SE?",compatibility
+"Is it compatible with the Nexus 6p?",compatibility
+"Does it have remote capture for the camera from my phone?",features
+"Is it waterproof?",compatibility
+"Does this watch work with windows os phone?",compatibility
+"The metal wrist band is tight on me, anyone else?",features
+"any fixes?",features
+"Does it come with a stopwatch & is the gps built in or do you need to connect your phone for runs?",hardware
+"What are the current differences in functionality when using with iOS?",compatibility
+"Motorola website doesn't specify.",features
+"Does this come with a charging dock?",hardware
+"I routinely sleep in two different places and do not want to carry the charging dock around with me.",features
+"Can I charge it with a USB charger?",hardware
+"can anyone tell me if the heart rate monitor is accurate?",features
+"does the conituous heart rate monitor upload a graph or something?",features
+"Can the heart rate monitor and stop watch be on at the same time?",features
+"Is the dial face active all the time (i.e.",features
+"does it switch off with inactivity)?",features
+"Is the dial lighted for night view?",features
+"Can brightness be manually cont?",features
+"Is this watch version 2 or version 1?",hardware
+"Is it the chrome one?",hardware
+"In stock and Ready to ship?",hardware
+"can i install whatsapp in this watch ?",features
+"is this phone compatible with the samsung 6?",compatibility
+"Is this generation 1 or generation 2?",hardware
+"Does the heart rate monitor works when arm is moving (like running?)",features
+"with latest firmware?",compatibility
+"Can i get rid of the horizontal bottom line?",hardware
+"does this gave to have a mobile plan?",features
+"Do you need a phone to use this?",features
+"why isnt my watch pairing to my phone i downloaded android wear and motorola connect but it find my watch?",hardware
+"what kind of smart phone this watch are compatible with?",compatibility
+"Does it pair with lg flex?",compatibility
+"is it working with Windows phone 8.1?",compatibility
+"does it work in india?",compatibility
+"Do you ship to Albania?",hardware
+"Will this work with OnePlus 2???",compatibility
+"can you download/upload programs to the watch?",features
+"does it work with a ipod touch 6th generation?",compatibility
+"Do you all have 46mm face.",features
+"Can I make and answer call by using the speaker of the watch?",features
+"is it worth?",features
+"Is this watch Water Proof?",hardware
+"does it is a 3g phone Â¿?Â¿
+does the band fit large wrist?",hardware
+"¿Should i buy this or the pebble steel?",hardware
+"note: i have an iPhone.",features
+"will it work with nexus 6?",compatibility
+"Has anyone tried to use it while connected through Bluetooth in their car.",features
+"I.e.",features
+"does it conflict or can you have phone connected to both car & watch?",features
+"Can it phone call in the watch?",features
+"does it work well with LGG2 android, also is there a app that needs to be downloaded?",features
+"If I place an order, when can I get it?",hardware
+"I am urgent!",features
+"can this be connected through wi-fi?",features
+"well this watch work with the iphone 4?",compatibility
+"Does all the features work with the iPhone 6?",compatibility
+"How do you pair?",features
+"Will this work with Samsung Galaxy Alpha?",compatibility
+"can you receive and responde whatsapp messages?",features
+"Is it possible to look at your moto 360 watch see who is calling you then take that call on your mono Bluetooth headset without using your phone?",hardware
+"What is the total length of the watch including band..",features
+"I want to know if it can fit my wrist?",features
+"can I view pictures?",features
+"Will it fit a 7 to nine inch wrist.",hardware
+"Does this work with iOS devices?",compatibility
+"Can this watch receive notifications silently?",features
+"I'm in grad school and I want to be able to look at messages on it without it vibrating or making noise?",features
+"Is this sincronized with iphone as well?",compatibility
+"What is differnt with http://www.amazon.com/gp/aw/d/b01ddwo3yk/ref=mp_s_a_1_4?qid=1464272558&sr=8-4&pi=ac_sx236_sy340_fmwebp_ql65&keywords=moto+360&dp?",compatibility
+"Can it work with other phones like htc?",compatibility
+"Hello, I have just received the moto 360 today, but the watch is damaged, it doesnot connect to any cellphone and it doesnot have the options of the s?",hardware
+"Is it compatible with an iphone?",compatibility
+"Can you use spotify on it?",features
+"Are there app restrictions?",compatibility
+"Can i go on browsers in the watch?",features
+"Hi, i will be on miami from next sunday to thuesday, would it be possible to receive it on my hotel between these days?",features
+"thanks!",features
+"can i talk on it?",features
+"Can you ship it to Vancouver?",features
+"And how many days will take to arrive?",hardware
+"Thanks?",features
+"Is it a Moto 360 1st or 2nd generation?",hardware
+"Can you send the pictures you draw on the watch to people?....and can you talk to it and call people on it??",features
+"does it have speakers?",features
+"At 1st had blue #s and loop when charging, now have red #s and loop when charging.",features
+"Problem?",features
+"does it work with windows phones?",compatibility
+"Can you swap out the band?",features
+"Does this watch have a phone locator?",features
+"A friend pushes a button on her watch and her phone beeps, telling her where she left her phone.",features
+"Can you send and receive text messages?",features
+"Does this work with an iPhone?",compatibility
+"How much does the bluetooth affect you phone battey?",features
+"Does this have a sleep monitor/tracker to help monitor sleep patterns etc?",features
+"Is this a 1st or 2nd generation?",compatibility
+"Is there a warranty with the product and can you buy an extended warranty?",features
+"Dose thus show how many calories i burn?",features
+"My job has metal detectors, will the black leather version of this watch trigger metal detectors?",hardware
+"Actual answers only please.",hardware
+"Will it work with the new bb priv ?",compatibility
+"Why it is discontinued by manufacturer?",features
+"does it have a speaker fm radio app?",features
+"or does it only control music from bt?",features
+"Can display pictures?",features
+"does it works for iphone 6s?",compatibility
+"does the watch do all the same functions with an iPhone just as it does with an android?",features
+"is this watch waterproof?",features
+"Will this watch notify you that you have an sms or imessage on iphone?",features
+"What is the difference between s/m and m/l size?",features
+"does it sync via Bluetooth?",compatibility
+"What is the size of the watch?",features
+"Will this work with an Apple iPhone?",compatibility
+"Does this watch have a function for a timer alarm?",features
+"Ex-Need to be notified every 45 min.",features
+"Dose it support arbic?",compatibility
+"Does this work with Samsung Galaxy S6?",compatibility
+"Can I receive notifications from slack app?",features
+"Will this work with an Verizon iphone?",compatibility
+"Do I need a bluetooth earpiece to use the watch, or can i answer and talk into the watch?",features
+"what apps work for this watch?",compatibility
+"Hello, will this watch will work with an android 4.2 phone?",compatibility
+"Can you respond to text message from watch?",features
+"Hi, i would like to buy the alcatel onetouch watch white.",hardware
+"do you have any other method for me to get this item?",hardware
+"i am from singapore.",features
+"does this steel band watch ?",hardware
+"Does it have a vibrating alarm clock?",features
+"Can you change the strap?",features
+"Can you change watch bands?",features
+"is a screen protector necessary?",features
+"Can the battery last for a marathon 4 hour run with bluetooth headphones?",battery
+"Does it track sleep?",features
+"Does it have a constant heartrate?",features
+"Does this watch have a mic and speaker so I could talk on it?",features
+"What size range does the band fit?",customization
+"how long will the battery last with gps on and heat rate tracking on compared to off?",battery
+"Does it tell me my running pace in real time?",features
+"Does it record heart rate while you work out and constant or do you need to be standing still.",features
+"also is this work with my Samsung s Health app?",features
+"can i use the watch with spotify without having my phone with me?",features
+"Battery life is enough for 2 hr workout session hearing music?",battery
+"Is the 1st Gen charger compatible with this 2nd Gen watch?",compatibility
+"Can you set a pace alert (notify when you go above or below a set pace)
+Does the hr monitor works as well and registers data if i decide to use different running apps such as nike+ or runkeeper?",features
+""Is this a good, lower cost alternative to the Moto 360 2nd gen?",hardware
+"I will only be checking notifications and such.",features
+"I don't care for the "active" part"
+Does the box include a wireless charger?",hardware
+"Can i change the watch face like another android wear..??",features
+"Is the stand alone gps only for tracking fitness or will the watch work as a stand alone turn by turn navigation?",hardware
+"or would that require cell or wif?",features
+"Does this watch have GPS?",features
+"This model is for men or women?",features
+"I have a 8 1/2 inch wrist is the strap long enough for my wrist?",hardware
+"can I track the watch from a separate device, like a computer or iPhone?",features
+"Does the watch sync to the phone's time, or is the watch set manually or in some other fashion?",features
+"Thanks!",features
+"Is there updates often to apps and firmware to fix bugs?",features
+"is this for a female?",features
+"Does it work with iOS?",compatibility
+"Can i turn bluetotth off (to save battery) ?",features
+"I have an iPhone 6 and would like to find a watch for golf gps as well as texting and notifications.",features
+"Does this have all of that?",features
+"Can you google on it?",features
+"How does it connect to the phone?",hardware
+"Is it waterproof?",compatibility
+"Do you need to put a sim card in the watch for it to work?",hardware
+"Can I see a map on this watch?",features
+"Is this the watch you can make phone calls and text with?",features
+"Does this work with Windows phones?",compatibility
+"Can i save photos on the watch?",features
+"(From iphone)
+Does it have international warranty?",features
+"Just a couple of questions: 1) can you check the time while in workout mode?",features
+"2) can you use stopwatch or timer while in workout mode?",features
+"Does the Clock display show seconds?",features
+"Will this watch charge on indian voltage??",features
+"Is this for Men or Women?",compatibility
+"Can you use calculator with this one?",features
+"Is this the second gen or first gen sport... ?",hardware
+"What is the total weight and dimensions of the package?",features
+"Does it work with iphone?",compatibility
+"Does the front glass break easily?",features
+"Is this the new one or the original?",hardware
+"is the screen always on?",features
+"Can i change the watch face like another android wear..??",features
+"Is good with weagth lifting work out?",compatibility
+"Is fitbit better?",compatibility
+"Can u use it with the fitbit app?",features
+"Does it tell time?",features
+"Do you need your phone?",features
+"Can i listen to music without my smartphone?",features
+"Aside from cosmetics, what is the difference between the regular moto 360 and the moto 360 sport?",hardware
+"The strap holder that holds the band in place ripped.",hardware
+"Any suggestions where to get new?",hardware
+"it is waterproof?",features
+"I broke the screen, where can I get it fixed?",features
+"Is the moto 360 sport compatible with the lg v10?",compatibility
+"How long does the battery last with simple, everyday use?",hardware
+"is it shower proof?",features
+"Is this device compatible with the iPhone?",compatibility
+"Sync or Works with iphone?",compatibility
+"Does this watch display the text from a text message on the screen or does it just notify you of a new message?",features
+"Does it sync with Nike+
+Does the watch give you notification for incoming call?",features
+"able to receive it?",features
+"Compatible with I phone 6?",compatibility
+"How do i load mp3 onto this watch?",features
+"can i drag and drop any mp3 that i have downloaded to my pc?",features
+"or is music limited to the google play universe?",features
+"Does it have warranty ?",features
+"does this have stand alone gps built in?",features
+"What color should i get?",hardware
+"Is orange weird for a man to wear?",hardware
+"How durable is the watch band for the moto sport?",hardware
+"Since this is a sports watch, does it have a compass?",features
+"Hello, is this watch compatible with iphone 6s?",compatibility
+"Can you upload music directly via micro USB plug in?",features
+"How well would this watch track gps while I'm traveling in Europe and won't have data on my phone?",features
+"should i change from moto 360 1gen to this one?",hardware
+"Is this compatible with iphone 7?",compatibility
+"can i get sms notifications?",features
+"Is it waterproof?",compatibility
+"Is this first or second generation?",hardware
+"What's the range on the watch?",features
+"does the phone have to be in your pocket?",features
+"People able to talk or take pictures on this watch like the samsung one?",hardware
+"can you respond to test messages with this watch?",features
+"is it waterproof?",features
+"Is it difficult to see the screen outside?",hardware
+"Does it work with the galaxy s4??",compatibility
+"do we get a charger /usb connector with the pebble white or do i have to buy it separately ?",hardware
+"Does the pebble smart watch have heart rate capability?",features
+"What is the difference between the $99 dollar watch and the $199 dollar watch and is it worth the difference?",hardware
+"How is it connected to the Web?",features
+"Does whatsapp notificationbs appear on it?",features
+"what is the Pebble Smartwatch Steel compared to the Pebble Smartwatch?",hardware
+"When I go for a run, would I still need to have my phone with me for the watch to record distance and pace?",hardware
+"Only one phone can be Bluetooth paired with my cars for phone answering purposes.",hardware
+"Can my S4 be paired with the watch and with my car to answer phone?",hardware
+"Is it compatible with the Iphone 5s or 6?",compatibility
+"iOS8?",compatibility
+"can you make or answer calls?",features
+"does this watch work with the LG Optimus Dynamic II?",compatibility
+"Does this watch still kinda hold up today?",hardware
+"can you answer and make calls from this?",features
+"can you connect it to bluethooth headphones and listen to music?",hardware
+"is it touchscreen?",features
+"Does clock have vibrating alarm?",features
+"Can you connect to both the Pebble and your car's Bluetooth Stereo (mainly for hands free phone calls) at the same time using an Android 4.2 phone?",compatibility
+"Does it eat up many gb of data on your plan?",features
+"i had it on for 2 weeks and i used up all my 6 gb.",hardware
+"Does the vibrating alarm work well enough to wake you?",features
+"Does the caller ID show the contact information stored on your iPhone?",features
+"Just the phone number?",features
+"Or the publicly listed caller ID info if avail?",features
+"Is this watch compatible with a HTC ONE M8?",compatibility
+"Would you recommend this against the potential iwatch if it does indeed exist?",hardware
+"Is the Pebble watch compatible with the Polar H7 Bluetooth Smart Heart Rate Sensor strap?",compatibility
+"iphone 4?",compatibility
+"Will it let you know when you have an imessage?",features
+"is the watch operative as a blue tooth phone?",features
+"Does the charger come with it?",compatibility
+"will it work with an iphone 3?",compatibility
+"Is it compatible with Android Icecream sandwich?",compatibility
+"Does it support the Arabic language in menus or at least support reading messages and emails in Arabic?",compatibility
+"Does it works with Blackberry?",compatibility
+"It Is waterproof??",compatibility
+"is the watch compatible with ios 8?",compatibility
+"Will I be able to see who is calling and then answer with my Bluetooth headset?",features
+"Can both be connected at the same time?",features
+"Will this watch let you read full emails that have some length to them (scroll down), or does it only show the first couple lines?",features
+"Can it be used as a trusted device to keep phone unlocked and if so, what is the range before phone locks?",features
+"does it work with windows phones?",compatibility
+"Can the backlight be configured to stay on for longer when activated by wrist motion?",features
+"Does this watch have motion sensitivity or gestures?",features
+"(Like tiliting your wrist and it turning on)
+"Does it have to be paired to your phone to use the "pace per mile" running feature?"",features
+"Does it have its own accelerometer, like a fit bit, or does it only record activity from the phone's movement?",features
+"I know that it will vibrate but can you call and text from it?",features
+"Like does it have a microphone so you can make a quick call?",features
+"I have an iphone (work) and an Android(personal) Can I use this with both simultaneously?",compatibility
+"Can I use wifi to see the weather?",features
+"iPhone?",compatibility
+"does pebble smart watch work with samsum galaxy gear note 3?",compatibility
+"Has anyone used the golf range finder app?",features
+"if so is it accurate and readable in bright sunlight?",features
+"does this device check heart rate?",features
+"What is the warranty on the watch?",features
+"Will this watch work efficiently with iphone 6 plus and ios 9 ?, please clarify.
+""",compatibility
+"most Android devices with OS 2.3 or later for wide-ranging use" what does this mean exactly?",compatibility
+"Bluetooth should work on all versions?",compatibility
+"How is the durability?",features
+"Waterproof?",features
+"I live an active lifestyle and sometimes that means my watch gets a little beat up.",features
+"Has the watch it own GPS?",hardware
+"Thanks in advance for the answer?",features
+"What are the features that the pebble watch has without a smartphone?",features
+"(pedometer, gps, weather etc)
+does this watch have automatic lap counter?",features
+"is it waterproof?",features
+"Does this include the free one year MVP Premium membership?",compatibility
+"Does this watch work with i phone 4?",compatibility
+"Is this the same watch that can track seizures?",features
+"Will this watch fit an 11 inch wrist?",compatibility
+"Does the pebble watch work with iOS8.",compatibility
+"And what is the ranged distance from your phone to the watch.",hardware
+"I have a Galaxy S2 with android 2.3 on Straight Talk and limited to this version.",hardware
+"Will this device function correctly with my phone?",compatibility
+"Can it count your steps for you?",features
+"can you talk on it like a phone?",features
+"does this work with my galaxy s3?",compatibility
+"Does it have Anti Theft?",features
+"Can you text on it?",features
+"Does it have a stopwatch feature?",features
+"How water resistant is the watch?",hardware
+"Is there a walking alarm option, something that reminds you to stand up?",hardware
+"And if so, does it have a snooze option to go with it (if I'm tied t my desk)
+Can i change the face with watchmaker or facer?",features
+"How long can I use this watch with one charge?",hardware
+"iPhone 6. iOS 9 can i receive any kind of notification.",compatibility
+"O just some?",features
+"this work with windows Phone?",compatibility
+"How can you force a full reset for the device when it won't pair with your iPhone?",features
+"I'm not sure if my device is defective or just faulty.",features
+"Will it connect to Blackberry 10?",compatibility
+"Can you download apps?",features
+"Does it has as an internal storage for storing music?",features
+"Does it work with an itouch?",compatibility
+"How much it will be in total, if you send it to Mexico City?",features
+"Dose it work with lg stylo?",compatibility
+"watch aswer the call?",features
+"Do you have to have a phone to use this?",features
+"I'm using it with the iphone 6+ running ios 9.1. i can't find the place in the move app that lets you change or edit watch faces.",compatibility
+"Can you insert a SIM card to use just as a phone by itself?",features
+"Will this receive all notifications from my iPhone or only from select apps?",features
+"whats the size difference?",compatibility
+"S/M - M/L ???",features
+"Does it work with an Lg phone?",compatibility
+"Does it have the feature where flick of wrist shows time?",features
+"And how many days does the battery last?",features
+"Does this use the standard android smartwatch 'os'?",features
+"I'm using iPhone 5.",compatibility
+"Do you know if it will notify me when I am receiving calls?",features
+"can the music functions control music playing from the spotify app, or just ios/android preloaded music apps?",features
+"Can you wear it at night and get vibration alerts to wake you up?",features
+"What is the length difference between s/m and m/l?",features
+"Can we insert sim card?",features
+"can it work with windows phone?",compatibility
+"works with windows phones?",compatibility
+"Is the wrist strap adjustable?",compatibility
+"What are the measurements for s/m and m/l?",features
+"Is there bands changeable?!",compatibility
+"Will you be able to answet phone calls?",features
+"And is it compatible with an LG?",compatibility
+"what is the crystal made of?",hardware
+"Is there a mode to keep the display on?",hardware
+"I have both an lg v10 and samsung s3 - will this work with both phones, although it's from alcatel?",compatibility
+"My wrist is 7inches around, i ordered the m/l size.",features
+"i like my watches snug enough so they dont spin on my wrist.",features
+"should i have ordered the smaller one?",features
+"can you change the band to steel?",features
+"do you send to Italy?",features
+"Will this work with the Fire Phone?",compatibility
+"Is there an app for the i phone 5s?",compatibility
+"Can this be used to make voice memos, and is it a simple interface?",features
+"Can you reply to whatsapp messages with a voicenote and such?",features
+"Will this work with Samsung Galaxy s7?",compatibility
+"What is different between s/m and m/l ?",features
+"detail it by cm for me please ?",hardware
+"thanks?",features
+"can you send messages through it?",features
+"How do you know if your wrist is small or large?",features
+"Lmfao?",features
+"Can you use this as a gps?",features
+"Does it run Android wear?",compatibility
+"What is the maximum length to still be connected with the watch through Bluetooth?",hardware
+"Does it work on ios 8?",compatibility
+"My watch isn't vibrating for notifications.",features
+"It does vibrate for calls though.",features
+"Is it a defect?",features
+"Would it wake up with hand movement?",compatibility
+"Does it track distance??",features
+"So i have a med size hands.",features
+"should i go with this or the med and large watch?",features
+"Can it display your current speed?",features
+"Can you answer calls and make calls only using the watch (as long as it is within bluetooth reach of your phone)?",features
+"can i see pictures from my galery in the watch?",features
+"How about the sizes?",features
+"Can I answer my phone calls and talk with the watch?",features
+"Is it water proof?",hardware
+"Do you have it in metal brazalete ?",hardware
+""I see a lot of "no longer charging" complaints.",hardware
+"Is that resolved in latest revisions of the hardware/software?",hardware
+"How the manufacturer is handling that?"",features
+"What's the difference between the two size options?",hardware
+"can i answer calls from the phone?",features
+"does it have a sleep tracker?",features
+"Does the watch suppost to come with a charger, because i didnt recieve one.",hardware
+"Do it work with the new blackberry priv?",compatibility
+"Can you put your own screen saver from pictures that you have on your phone?",features
+"How come the small/medium is more expensive than medium/large?",hardware
+"Will it work with samsung galaxy note 4?",compatibility
+"is it mp3??",features
+"does it have fm??",features
+"or is the music all just controlled by bt on phone??",features
+"Is a HR strap needed?",compatibility
+"Can you change the watch faces for this watch?",features
+"And what kind of software is this running?",features
+"Does it support Korean and other languages on messages, SNS and other apps?",features
+"Does this watch work well with Lg phones?",compatibility
+"Dear Sir, do you shipp to Malaysia?",features
+"Does the watch come with a charger?",hardware
+"Can I see WhatsApp messages on this watch?",features
+"Can i install apps for it i.e like calculator?",features
+"Is it water resistant at all?",hardware
+"Will this work with an iPhone 6?",compatibility
+"do the smart wAtches work with European cell phones?",compatibility
+"Are the bands adjustable?",compatibility
+"Can you use with windows cell with blue tooth??",features
+"Is this ez to use?how does wireless charge work?",hardware
+"Will connect with a Bluetooth headset?",compatibility
+"Will it work with a iPhone 6?",compatibility
+"Can you sync it with any cell phone?",features
+"Will it work with iPhone 5?",compatibility
+"Can it work for iOS?",compatibility
+"Is it water proof??",hardware
+"Does it have speakers and mic to take calls?",features
+"What's the difference between the Gen 1 and Gen 2 watches?",hardware
+"Can you store music on this device like the new samsung gear s3?",features
+"or can you only stream or control music playing from your phone?",features
+"thanks!",features
+"Does this watch work with Android os 6.0?",compatibility
+"Is this watch comparable with an htc 10 and has blue tooth?",compatibility
+"Does this watch have the microphone?",features
+"So you can respond right from the watch to the notifications that are sent to it?",features
+"ExtrA links for band?",features
+"Is this the 2 version of the fossil q founder?",hardware
+"Is it compatible with the Lg G5?",compatibility
+"Can you connect any other bluetooth devices to your phone while it's connected?",features
+"Can you insert SIM card?",features
+"does it answer or make calls?",features
+"Do you have to carry your smartphone with you for the watch to function?",features
+"Does this MOTO 360 have its own WIFI or does it need to be tethered to my phone to check email, browse internet?",hardware
+"Is the watch water resistant at all?",hardware
+"Does the watch continue to track your steps if you don't carry your phone during a workout?",features
+"Can I play music from the watch?",features
+"ref the sale dicription as motorola moto 360 - champagne gold metal,( 23mm) , smart watch -?",hardware
+"what does the 23mm refering to ive seen a 18mm obtion ??",hardware
+"Does it have a sleep tracker, pedometer and calorie counter?",features
+"Do i need a sim card for it or not?",hardware
+"can i store and listen to music with a wireless headset without having to connect to my phone?",features
+"Is the case the same color as the band?",hardware
+"From the images it looks like this watch has the dark finish case and the light metal band.",features
+"Is the first generation moto 360 compatible with the Samsung Galaxy Note 5?",compatibility
+"is android wear support arabic ?",compatibility
+"Does this watch support Chinese Mandarin?",compatibility
+"does button zoom in?",features
+"Can you change bands (say, from metal to other leather bands) on the Silver Band Moto 360s?",features
+"My Moto 360 is not paring with LG G3 the andriod version is 4.4?",compatibility
+"Please guide me.",features
+"Thanks?",features
+"Anyone here have issue with burned lcd screen or broken lcd screen?",features
+"My moto 360 bottom part of the screen has 1/4 inch black line.",hardware
+"Will the 18mm gold moto 360 fit a man's wrist?",hardware
+"Does any one know the size of the leather watch bands?",hardware
+"While the watch is connected (via Bluetooth), will I be able to connect to my car's hands-free calling (also vis Bluetooth)?",hardware
+"is standalone wi fi built in or only sync from phone?",features
+"Can i customize the watch display later ?",features
+"Can you answer a text with a keyboard or only through voice?",features
+"so if my android runs on 4.2.2, im doomed right???",features
+"Does it function as a watch only if not connected to Bluetooth phone?",features
+"Now that gen 1 is no longer in production, will it be under warrenty if I buy now?",hardware
+"Is the first generation moto 360 compatible with IOS?",compatibility
+"Is there any water resistance?",hardware
+"Is the band on cognac 22mm or 18mm?",hardware
+"Will it work with an Apple 5S.",compatibility
+"It's completely new??",features
+"or it is refurbished??",features
+"it come with a generic box??",hardware
+"or with the original box??",compatibility
+"What is the restocking fee if the package is opened but the watch is not used.",features
+"Is this a gen 2 ?",hardware
+"is this compatible with IOS?",compatibility
+"If so, are all apps compatible or just a few?",features
+"Does it come with a charging dock?",hardware
+"Do i need a separate contract?",features
+"have a samsung android with att service.",features
+"can this work with that or need new account?",compatibility
+"does it work with Iphone?",compatibility
+"Does this work with iPhone 6s Plus?",compatibility
+"Is it avaliable in black metal?",hardware
+"how small is the 18mm metal band?",hardware
+"im ordering it, i dont have a big arm, im not a big looking guy but i dont want the 18mm to be something too small?",features
+"the watch size bigger than Gear S2 or similar?",features
+"And will it work with Note 5?",compatibility
+"Is this watch compatible with t-mobile carrier and the samsung galaxy note 4?",compatibility
+"How long does the battery last?",features
+"Can I explore photos from my phone?",features
+"Is the heartrate monitoring continuis?",features
+""¿what is the real shipping weight?",features
+"sometimes it comes in a large package and the "shipping weight" of amazon is not the same.",features
+"thank you all"
+Do I need a step down converter for this if I order it from South Africa (a 220V country)?",hardware
+"Can you shipping this item to Thai?",features
+"Will this watch work with the google maps app in my phone.",compatibility
+"Say i set a route on my phone and start navigation, will the watch display a map?",features
+"can you text on this?",features
+"is it the same as the 2gen?",features
+"Can you pair some bluetooth headphones with the watch and listen to music through it?",hardware
+"make shipments to Mexico?",features
+"Is this a moto 360 2nd generation?",hardware
+"Will it run on iOS?",compatibility
+"Hi, i bought motorola 360 en november 30, it doesnt charge any more, it gets up to 5% and when i try too turn it on it just doesnt, how do i proceed?",hardware
+"Is there a major difference between the light metal vs the natural metal finish?",hardware
+"does one match the watch better than the other?",hardware
+"Does this smart watch pair with the Galaxy S3 phone?",compatibility
+"can you watch youtube on it?",features
+"Wiill the speech to text function still work if I am connected to the bluetooth in my car?",hardware
+"Hello, does it support mode?",compatibility
+"If I want to change out to watch band, are there specific types/sizes that will work with this watch?",features
+"Can you answer calls?",features
+"Does day and date show?",features
+"Does this come with the wireless Qi Charging dock, the wall charger and the quick start guide?",hardware
+"Does the watch come with anything to change out the links?",features
+"Like if I wanted to take a couple links out?",features
+"I'm a runner.",features
+"Will the 18 mm brown leather watch withstand sweat and heat from long distance running?",features
+"Is it compatible with with iphone?",compatibility
+"Does the Moto 360 have an independant camera?",features
+"Can I use with iPhone?",compatibility
+"does it support wechat?",compatibility
+"What can this watch do without being connected to wifi?",features
+"How big is the metal band size?",hardware
+"I'm not sure if the metal band fits my wrist?",hardware
+"How long does a fully charged battery last?",features
+"Does it work with Iphone 5s?",compatibility
+"I just want to check begore i get jipped, does the silver metal one for $150 include the wireless charger, warranty, and original packaging?",hardware
+"what color of this case?",hardware
+"gold?",features
+"Is the watch compatible with a ZTE grand max+ phone?",compatibility
+"Does it comptbol with 5.01 android Samsung note edge?",compatibility
+"can you send and receive messages if it is connected to a galaxy s6?",features
+"How to choose M or S?",features
+"can the band be replaced on this new Samsung Gear Fit 2?",customization
+"What is the sizing for large vs. small?",customization
+"What are its primary improvements over the GearFit?",features
+"Are the calories burned while exercising accurate?",features
+"Could I use the Couch to 5k app on it?",features
+"Is it accurate while pushing a syroller or shopping cart?",features
+"How is the battery with GPS active?",features
+"When will it be available in pink?",hardware
+"Does the watch gps work with elevation for cycling?",compatibility
+"does this need a phone to work?",features
+"Does it support wireless charging?",compatibility
+"Does the activity data export or only stay resident on device?",features
+"Can you go swimming with the Fit2?",features
+"If a text message comes in and you can't read it right away can you go back and retrieve it from the watch to read it?OR do you have to use your phone?",features
+"Does it monitor your sleep?",features
+"Is there a stopwatch and will display stay on.",hardware
+"Would like to use this at work to count patients HR and respirations?",features
+"Will it track steps when pushing a stroller?",features
+"can you turn off the text and call capability?",features
+"I understand small is (4.9in - 6.6in) large (6.1in- 8.2in) but what if I am just at the border line of small.",hardware
+"My wrist measures just under 6.5 in?",features
+"Will this do 24/7 hrm, its not mentioned, thanks.",compatibility
+"will it kast 3+ days not using gps?",compatibility
+"Do you need a phone to have it, or can you just set it up on your mom and dad's phone and use it as your own?",features
+"I am having bluetooth connecting issues while playing music and working out, anyone else having that?",features
+"does spotify save music onto the device so you can run without your phone?",features
+"How durable is it?",hardware
+"Can it take bumps to doors, walls, corners of tables or scrapes against things?",hardware
+"Is it water proof?",hardware
+"Is there any device functionality that only works on samsung phones?",compatibility
+"i have an lg phone and i'm particularly interested in using the spotify feature.",features
+"Can you read texts and emails from the device?",features
+"Can it connect to any bluetooth headphones or earphones?",hardware
+"Is it moisture/water resistant?",hardware
+"does it show e-mail?",features
+"So what happens if the S Health app isn't working properly?",features
+"Is the watch basically useless without the app?",features
+"Can this be linked with a chest heart rate monitor?",features
+"Can i go swiming with it on?",features
+"Can you look at your stats on a computer or website?",features
+"can I track food and nutrition with this?",features
+"Is this watch waterproof?",hardware
+"Like can I do dishes and shower with it on without damaging it?",features
+"Can you use a polar h7 heart rate strap with this device to get more accurate heart rste?",features
+"How long does the battery last while gps is on and running.",features
+"will it track a 8+ hour run?",compatibility
+"Can you wear it in a sauna?",features
+"Does this have a stop watch?",features
+"How do u get the music on there i have a samsung galaxy & when i go to the gear app it shows me having no tracks available even though i have hundreds?",features
+"Does.",features
+"bluetooth 4.1 headset compatible with this?",compatibility
+"i know it has bluetooth 4.2 but will work with 4.1?",compatibility
+"Does the samsung gear fit 2 support ant+ (for use with a chest strap heart rate monitor)?",features
+"Please forgive if this question has been asked previously, is this item sync with S Health that is currently pre-installed onto the Samsung 5 & above?",features
+""Can this be charged for "20 minutes a day" (e.g.",features
+"in the morning when getting ready) and stay charged all the time?"",features
+"How is the band attachment?",features
+"Has anyone had problems with it falling off or coming 'unclasped'?",compatibility
+"How do you listen to music on it, do you have to have headphones or does the sound come from the watch?",hardware
+"Is there an option to disable/enable the bluetooth and wifi modes?",hardware
+"Has anyone used this while working out?",features
+"If so what does it actually record?",hardware
+"Looking to get this for my wife for working out and crossfit.",hardware
+"Thanks!",features
+"Does it use the same charger as the original samsung gear fit?",compatibility
+"i want to order a 2nd charger while i am ordering it.",features
+"Is compatible with my samsung galaxy s7?",compatibility
+"Is it compatible with Android Wear?",compatibility
+"Will the Gear Fit2 sync with the fitness pal app?",compatibility
+"What is the battery life on the fitness tracker with/without the gps on?",features
+"Does it has airplane mode?",features
+"Or at least can be turned off?",features
+"Every time i move, screen comes on.",features
+"not liking this when i'm trying to fall asleep.",features
+"anyway to change this?",features
+"Is this fit gear waterproof or no?",compatibility
+""If I go on a run & leave my phone at home will I still receive notifications (texts, emails etc) or does the watch have to be in "range" of phone"
+Are the bands user changeable or are the color choices more permanent?",customization
+"Can I check me emails or answer calls or read a text?",features
+"Can I view a picture?",features
+"how is this compaired to the Gear2?",features
+"Can you answer the phone with it directly through the watch, and if yes, does it have a speaker?",features
+"Does it tracks and stores data (such as hr and steps) even if bluetooth and wifi is disabled or need to be paired to phone?",features
+"Will this watch work efficiently with iphone 6 plus and ios 9 ?, please clarify.",compatibility
+"Why is this listed as a women watch?",features
+"Girly?",features
+"Can the band be changed?",features
+"Also can multiple alarms be set?",features
+"does it have a heart rate monitor?",features
+"Does this watch support Chinese or Japanese characters？
+Can you set this up on I Pad.",features
+"4 or Your computer?",compatibility
+"Does the watch work independently from the phone?",features
+"If I were to use it as a gps to track run routes distance and time/do I need my phone with me?",features
+"Hi!",features
+"can i get notifications from WhatsApp, Instagram, Facebook and Snapchat?",features
+""my original pebble display often fades out because of it's "electronic paper".",features
+"Does this happen with the pebble time?"",compatibility
+"dose it have GPS and map?",features
+"Will this device work on a Samsung Edge?",compatibility
+"can use stream music from spotify without being near your phone?",features
+"Does watch measure heartbeat?",features
+"Rechargeable batteries die over time.",features
+"Can the battery be replaced after it becomes weak?",features
+"Which smartwatches i general having the always on feature are the most economical?",features
+"Pebble time or pebble time steel?",compatibility
+"which is it?",features
+"Will the watch for $54 come with a charging cable or will I have to buy ome for myself?",hardware
+"is there a way to mute notifications on this watch?",hardware
+"Does it have a heart rate monitor?",features
+"can you respond to texts via voice with this watch?",features
+"Is this watch compatible with Windows phones?",compatibility
+"does it keep track of seizues?",features
+"Does the pebble app store still works after the company closure?",features
+"most people say it doesn't.",features
+"does it work well with an iphone 5?!!",compatibility
+"Does it have mic???",features
+"How would you describe/rate the sleep tracking on the Pebble Time?",features
+"Does it call?",features
+"how big the display size in mm or cm?",hardware
+"Does this have a stopwatch?",features
+"I have no knowledge of smart watches.",features
+"We have Verizon; will my husband be able to use all the features?",features
+"Will this device work with the new Google Pixel?",compatibility
+"Will this watch work with iphone 4 and 5?",compatibility
+"Does anyone know how to have text message come to watch?",features
+"Does the watch correspond with Siri?",compatibility
+"can you check your heart rate with this device?",features
+"Can it fit on a 9 year old boy?",features
+"Does this have activity tracking that includes steps and heart rate?",features
+"Is this watch compatible with IOS 10.1.1?",compatibility
+"how do you charge the pebble watch?",features
+"Will this work with my Apple air pad or my Samson phone?",compatibility
+"""How is the battery drainage on your smartphone when connected to the Pebble via bluetooth?""",hardware
+"Will this work with Samsung Galaxy note V?",compatibility
+"Is it for girls only?",hardware
+"Will it work on my note 4 for answering phone calls and making them?",compatibility
+"Also is the speaker loud?",features
+"Is this watch compatible with the My Fitness Pal app?",compatibility
+"Can the alarms work independently of a phone?",features
+"I am looking for a dependable multiple alarm clock watch (5 + alarms/day) for my young daughter.",features
+"We can not sync this watch to a Kindle Fire (5th gen).",features
+"Is this possible?",compatibility
+"How is the battery drainage on your smartphone when connected to the Pebble via bluetooth?",hardware
+"Can I check Whatsapp and Instagram notifications with this watch?",features
+"Does it call?",features
+"Does this come with a warranty?",hardware
+"Will it work with iPod 5g?",compatibility
+"Is this a stand alone device or do you have to have a phone?",features
+"Are smart watches like these only wireless capable with wifi connection or do they have data services like smartphones?",features
+"What is the screen made of?",features
+"Will this watch work well with Iphone 6s, version 10.1+?",compatibility
+"does it show the time without a phone?",features
+"cell phone for emergency calling?",compatibility
+"Will this watch show notifications for Snapchat?",compatibility
+"can you see it outdoors?",features
+"How is the sale of pebble to fitbit going to affect the watch's functionality and support?",hardware
+"(if I buy one now, will it stop working in a month)?",hardware
+"Can it do calendar notifications and Evernote access when it is not in Bluetooth range of your phone?",features
+"I mean, can it work just on a daily sync?",features
+"Is the screen of this watch scratch resistant?",hardware
+"does it have a compass?",features
+"what apps you recommend for running and would track my activity?",features
+"Is this compatible with iOS 10?",compatibility
+"can the watch work independently(even if its limited)
+will this work with ios 6.0?",compatibility
+"Does it work with Runtastic?",compatibility
+"If not, what is the best fitness app for the pebble?",hardware
+"Can the watch run Iphone and Android at the same time?",compatibility
+"I have two phones, one is a personal phone and one is a work phone.",hardware
+"will this work for Galaxy 6?",compatibility
+"Does this work with the Fire Phone?",compatibility
+"Does thid work with straight talk galaxy s6 phone?",compatibility
+"why is the screen so dark, 5 members of my family from 6 to 48 years old can see the screen with a flashlight?",features
+"Is the buzzing vibration of the Pebble audible in a very quiet room?",hardware
+"can you make and answer phone calls with this watch?",features
+"Is it really water proof?",hardware
+"I want to be able to swim in it almost daily.",features
+"How can I get my emails to show up?",features
+"Does it come with a charger?",hardware
+"can it play music",features
